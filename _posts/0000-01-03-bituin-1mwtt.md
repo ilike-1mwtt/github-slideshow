@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our sixth slide!"
+title: "Welcome to our third slide!"
 ---
 > "Quiet people have the loudest minds." - Stephen Hawking
 
